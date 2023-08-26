@@ -78,12 +78,6 @@ const Project1 = () => {
                             <span className='sm:w-[66px] sm:h-[66px] w-[60px] h-[60px] flex items-center'>
                                 <Image src='/images/svelteLogoStack.png' width={360} height={360} alt="Svelte JS" className='w-full h-full' />
                             </span>
-                            <span className='sm:w-[66px] sm:h-[66px] w-[60px] h-[60px] flex items-center'>
-                                <Image src='/images/laravelLogoStack.png' width={360} height={360} alt="Laravel" className='w-full h-full' />
-                            </span>
-                            <span className='sm:w-[66px] sm:h-[66px] w-[60px] h-[60px] flex items-center'>
-                                <Image src='/images/PostgreSQL.png' width={360} height={360} alt="PostgreSQL" className='w-full h-full' />
-                            </span>
                         </div>
                     </div>
                 </div>

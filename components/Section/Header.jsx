@@ -37,9 +37,9 @@ const Header = () => {
                         </p>
                         <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl leading-snug md:leading-relaxed text-[#7477bd]/90">
                             <span className=' md:max-w-auto max-w-[430px]'>
-                                <span className="font-semibold">7 years of experience</span> <span>in using PHP native, Bootstrap, jQuery, MySQL</span>
+                                <span className="font-semibold">3 years of experience</span> <span>in using PHP native, Bootstrap, jQuery, MySQL</span>
                                 <br className='hidden lg:block' />
-                                <span> now exploring full-stack development.</span>
+                                <span> now exploring full-stack web development.</span>
                             </span>
                         </p>
                     </div>

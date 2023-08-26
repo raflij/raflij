@@ -2,6 +2,7 @@ import React from 'react'
 import ProjectSatu from './Project-1'
 import ProjectDua from './Project-2'
 import ProjectTiga from './Project-3'
+import ProjectEmpat from './Project-4'
 
 const Project = () => {
     return (
@@ -24,6 +25,7 @@ const Project = () => {
                 </div>
             </div>
             <div className='mt-[10px]'></div>
+            <ProjectEmpat/>
             <ProjectTiga/>
             <ProjectDua/>
             <ProjectSatu/>
