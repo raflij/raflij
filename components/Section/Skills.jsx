@@ -16,7 +16,10 @@ const Skills = () => (
   <div className='sm:px-12 md:px-16 z-50 px-6 py-24'>
     <div className='relative mx-auto max-w-[1240px]'>
       <div className='flex flex-col justify-center items-center'>
-        <h1 className='text-6xl font-bold text-[#fd562a]'>Skills</h1>
+        <h1 className='relative text-6xl font-bold text-[#fd562a]'>
+          <span className='relative z-10'>Skills</span>
+          <span className='bg-gradient-to-r from-orange-300/80 to-orange-100/30 absolute left-0 bottom-0 sm:bottom-1 lg:bottom-2 z-0 h-[16px] sm:h-[22px] w-full rotate-[-2.2deg]'></span>
+        </h1>
 
         <h2 className='sm:text-3xl text-2xl text-gray-500/90 mt-8'>Mostly using</h2>
         <div className='flex flex-wrap justify-center items-center gap-2 sm:gap-4 mt-6'>
