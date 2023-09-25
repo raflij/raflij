@@ -32,6 +32,7 @@ const Skills = () => (
           <SkillItem src="/images/tailwindcss.svg" alt="TailwindCSS" name="TailwindCSS" />
           <SkillItem src="/images/ginLogoStack.png" alt="Gin Golang" name="Golang Gin" />
           <SkillItem src="/images/express.png" alt="Express JS" name="Express JS" />
+          <SkillItem src="/images/laravel.png" alt="Laravel" name="Laravel" />
           <SkillItem src="/images/graphqlLogoStack.png" alt="GraphQL" name="GraphQL" />
           <SkillItem src="/images/restapi.png" alt="Rest API" name="Rest API" />
         </div>
@@ -39,7 +40,6 @@ const Skills = () => (
         <h2 className='sm:text-3xl text-2xl text-center text-gray-500/90 mt-8'>Rarely using / currently studying</h2>
         <div className='flex flex-wrap justify-center items-center space-x-4 mt-6'>
           <SkillItem src="/images/nuxt.png" alt="Nuxt JS" name="Nuxt JS" />
-          <SkillItem src="/images/laravel.png" alt="Laravel" name="Laravel" />
           <SkillItem src="/images/ci.png" alt="Codeigniter" name="Codeigniter" />
         </div>
       </div>
