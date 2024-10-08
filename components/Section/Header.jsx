@@ -23,7 +23,7 @@ const Header = () => {
                                 a <span className="relative">
                                     <span className="z-50 relative">happy</span>
                                     <span className="absolute block w-full inset-0 h-[46px] bg-gradient-to-r from-amber-700 to-orange-400/80 z-0 -left-1 top-8 rotate-[2.2deg]">
-                                    </span></span> junior full-<span className='text-[#fd562a]'>stack</span> develope<span className='text-[#fd562a]'>r</span>
+                                    </span></span> software enginee<span className='text-[#fd562a]'>r</span>
                             </span>
                             <br />
                             <span className='mt-8 md:mt-0 tracking-tighter md:text-[66px] text-3xl font-medium md:font-bold md:inline inline-block md:max-w-auto max-w-[360px]'>
@@ -31,15 +31,15 @@ const Header = () => {
                                     <span className='text-[#fd562a]'>always</span> eager to take on
                                     <span className='text-[#fd562a]'> new</span> challenges </span>
                                 <span>
-                                    and <span className='text-[#fd562a]'>expand</span> my knowledge, is dedicated
+                                    and <span className='text-[#fd562a]'>expand</span> my knowledge
                                 </span>
                             </span>
                         </p>
                         <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl leading-snug md:leading-relaxed text-[#7477bd]/90">
                             <span className=' md:max-w-auto max-w-[430px]'>
-                                <span className="font-semibold">4 years of experience</span> <span>in using PHP native, Bootstrap, jQuery, MySQL</span>
+                                <span className="font-semibold">I am a self-taught</span> <span>Software Engineer with a strong track record</span>
                                 <br className='hidden lg:block' />
-                                <span> now exploring full-stack web development.</span>
+                                <span> of creating scalable, high-performance systems</span>
                             </span>
                         </p>
                     </div>
