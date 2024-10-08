@@ -24,23 +24,21 @@ const Skills = () => (
         <h2 className='sm:text-3xl text-2xl text-gray-500/90 mt-8'>Mostly using</h2>
         <div className='flex flex-wrap justify-center items-center gap-2 sm:gap-4 mt-6'>
           <SkillItem src="/images/react-js.png" alt="React JS" name="React JS" />
-          <SkillItem src="/images/reduxLogoStack.png" alt="React Redux" name="React Redux" />
           <SkillItem src="/images/next.png" alt="Next JS" name="Next JS" />
-          <SkillItem src="/images/vue.png" alt="Vue JS" name="Vue JS" />
-          <SkillItem src="/images/piniaLogoStack.png" alt="Pinia" name="Pinia" />
-          <SkillItem src="/images/svelte.png" alt="Svelte JS" name="Svelte JS" />
-          <SkillItem src="/images/tailwindcss.svg" alt="TailwindCSS" name="TailwindCSS" />
-          <SkillItem src="/images/ginLogoStack.png" alt="Gin Golang" name="Golang Gin" />
-          <SkillItem src="/images/express.png" alt="Express JS" name="Express JS" />
-          <SkillItem src="/images/laravel.png" alt="Laravel" name="Laravel" />
+          <SkillItem src="/images/dotnet.png" alt=".NET C#" name=".NET C#" />
           <SkillItem src="/images/graphqlLogoStack.png" alt="GraphQL" name="GraphQL" />
-          <SkillItem src="/images/restapi.png" alt="Rest API" name="Rest API" />
+          <SkillItem src="/images/restapi.png" alt="REST API" name="REST API" />
+          <SkillItem src="/images/docker.png" alt="Docker" name="Docker" />
+          <SkillItem src="/images/git.png" alt="Git" name="Git" />
+          <SkillItem src="/images/tailwindcss.svg" alt="TailwindCSS" name="TailwindCSS" />
+          <SkillItem src="/images/kafka.png" alt="Kafka" name="Kafka" />
+          <SkillItem src="/images/redis.png" alt="Redis" name="Redis" />
+          <SkillItem src="/images/debezium.png" alt="Debezium" name="Debezium" />
         </div>
 
-        <h2 className='sm:text-3xl text-2xl text-center text-gray-500/90 mt-8'>Rarely using / currently studying</h2>
+        <h2 className='sm:text-3xl text-2xl text-center text-gray-500/90 mt-8'>Currently studying</h2>
         <div className='flex flex-wrap justify-center items-center space-x-4 mt-6'>
-          <SkillItem src="/images/nuxt.png" alt="Nuxt JS" name="Nuxt JS" />
-          <SkillItem src="/images/ci.png" alt="Codeigniter" name="Codeigniter" />
+          <SkillItem src="/images/kubernetes.png" alt="Kubernetes" name="Kubernetes" />
         </div>
       </div>
     </div>
