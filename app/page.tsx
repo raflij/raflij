@@ -20,7 +20,7 @@ export default function Home() {
         <section id="projects" className='relative'>
           <ProjectSection/>
         </section>
-        <section id="work-experiences" className='relative h-screen'>
+        <section id="work-experiences" className='relative'>
           <WorkExperienceSection/>
         </section>
         <section id="contact-me" className='relative'>

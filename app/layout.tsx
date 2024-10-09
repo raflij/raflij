@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Rafli J - Junior Full Stack Developer',
-  description: 'Experienced full-stack developer with over 7 years of expertise in developing web applications',
+  title: 'Rafli J - Software Engineer',
+  description: 'Experienced full stack developer with web applications',
   keywords: ['Rafli, Rafli J, Rafli Junior, Nasrullah Abdulrahman Rafli, Rafli Abdulrahman, Abdulrahman Rafli'],
   copyright: 'Rafli J',
   robots: {
@@ -19,14 +19,14 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Rafli J - Junior Full Stack Developer',
-    description: 'Experienced full-stack developer with over 7 years of expertise in developing web applications',
+    title: 'Rafli J - Software Engineer',
+    description: 'Experienced full stack developer with web applications',
     images: ['https://raflij.web.app/images/og.png'],
   },
   coverage: 'worldwide',
   openGraph: {
-    title: 'Rafli J - Junior Full Stack Developer',
-    description: 'Experienced full-stack developer with over 7 years of expertise in developing web applications',
+    title: 'Rafli J - Software Engineer',
+    description: 'Experienced full stack developer with web applications',
     url: 'https://raflij.web.app/',
     locale: 'id_ID',
     site_name: 'Rafli J',

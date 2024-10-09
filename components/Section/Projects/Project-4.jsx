@@ -5,7 +5,7 @@ import { RxArrowTopRight } from 'react-icons/rx';
 import { BsGithub } from 'react-icons/bs';
 import { FaReact } from 'react-icons/fa';
 
-const Project1 = () => {
+const Project4 = () => {
     const projectImgList = [
         { id: 1, src: '/images/menugg-cms/1.png', alt: 'Desktop Dashboard View', bg: 'bg-gradient-to-tr from-white via-yellow-300/40 to-teal-500/40', class: 'rounded-xl md:rounded-2xl w-full h-full' },
         { id: 2, src: '/images/menugg-cms/2.jpg', alt: 'Responsive Login View', bg: 'bg-gradient-to-tr from-white via-yellow-500/40 to-yellow-300/50', class: 'rounded-xl md:rounded-2xl w-full h-full' },
@@ -103,4 +103,4 @@ const Project1 = () => {
     )
 }
 
-export default Project1
+export default Project4

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { RxArrowTopRight } from 'react-icons/rx';
 import { BsGithub } from 'react-icons/bs';
 
-const Project1 = () => {
+const Project3 = () => {
     const projectImgList = [
         { id: 1, src: '/images/chatapp/1.png', alt: 'Desktop View', bg: 'bg-gradient-to-tr from-white via-neutral-900/20 to-stone-600/50', class: 'rounded-xl md:rounded-2xl w-full h-full' },
         { id: 2, src: '/images/chatapp/2.png', alt: 'Responsive Mobile View', bg: 'bg-gradient-to-tr from-white via-neutral-900/30 to-stone-600/40', class: 'rounded-xl md:rounded-2xl w-full h-full' },
@@ -104,4 +104,4 @@ const Project1 = () => {
     )
 }
 
-export default Project1
+export default Project3

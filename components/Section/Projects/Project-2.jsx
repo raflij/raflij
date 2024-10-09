@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { RxArrowTopRight } from 'react-icons/rx';
 
-const Project1 = () => {
+const Project2 = () => {
     const projectImgList = [
         { id: 1, src: '/images/menugg/1.png', alt: 'MenuGG Home', bg: 'bg-gradient-to-tr from-white via-orange-600/10 to-green-600/20', class: 'rounded-xl md:rounded-2xl w-full h-full' },
         { id: 2, src: '/images/menugg/2.png', alt: 'Menu List', bg: 'bg-gradient-to-tr from-white via-orange-600/10 to-green-600/20', class: 'rounded-xl md:rounded-2xl' },
@@ -86,4 +86,4 @@ const Project1 = () => {
     )
 }
 
-export default Project1
+export default Project2

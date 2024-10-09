@@ -1,8 +1,10 @@
 import React from 'react'
 import ProjectSatu from './Project-1'
 import ProjectDua from './Project-2'
-import ProjectTiga from './Project-3'
-import ProjectEmpat from './Project-4'
+// import ProjectTiga from './Project-3'
+// import ProjectEmpat from './Project-4'
+import ProjectLima from './Project-5'
+// import ProjectEnam from './Project-6'
 
 const Project = () => {
     return (
@@ -25,8 +27,10 @@ const Project = () => {
                 </div>
             </div>
             <div className='mt-[10px]'></div>
-            <ProjectEmpat/>
-            <ProjectTiga/>
+            {/* <ProjectEnam/> */}
+            <ProjectLima/>
+            {/* <ProjectEmpat/>
+            <ProjectTiga/> */}
             <ProjectDua/>
             <ProjectSatu/>
             <div className='h-[3px] bg-gradient-to-r from-[#878cf2] to-[#38327d]'></div>
