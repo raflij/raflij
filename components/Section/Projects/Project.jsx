@@ -15,7 +15,7 @@ const Project = () => {
                         <h1 className='text-[32px] sm:text-5xl lg:text-6xl font-bold'>
                             <span className='block sm:inline-block sm:ml-0 -ml-1 mb-2 sm:mb-0 mr-0 sm:mr-2'>☀️</span>
                             <span className='relative'>
-                                <span className='relative z-10 text-[#151326]/90 tracking-tight sm:tracking-normal'>Outstanding Projects</span>
+                                <span className='relative z-10 text-[#151326]/90 tracking-tighter sm:tracking-normal'>Outstanding Projects</span>
                                 <span className='bg-gradient-to-r from-[#bac2e7]/80 to-[#bac2e7]/30 absolute left-0 bottom-0 sm:bottom-1 lg:bottom-2 z-0 h-[16px] sm:h-[22px] w-full rotate-[-2.2deg]'></span>
                             </span></h1>
                     </div>

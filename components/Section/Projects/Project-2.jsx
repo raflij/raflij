@@ -63,7 +63,7 @@ const Project2 = () => {
                                                 <div className='md:h-[10px] md:w-[10px] h-[8px] w-[8px] rounded-full bg-teal-300 mr-2 md:mr-3'></div>
                                                 <span className='text-teal-300 text-lg md:text-2xl tracking-tight font-semibold'>Live in production</span>
                                             </div>
-                                            <span className='text-teal-50 font-semibold text-3xl md:text-5xl tracking-tight'>menugg.vercel.app</span>
+                                            <span className='text-teal-50 font-semibold text-2xl md:text-5xl tracking-tight'>menugg.vercel.app</span>
                                         </div>
                                         <span className='w-[42px] h-[42px] bg-sky-800/80 rounded-md flex items-center justify-center
             shadow-md'><RxArrowTopRight size='28' className=' text-white' /></span>

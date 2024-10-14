@@ -50,7 +50,7 @@ const Project3 = () => {
                                                 <div className='md:h-[10px] md:w-[10px] h-[8px] w-[8px] rounded-full bg-teal-300 mr-2 md:mr-3'></div>
                                                 <span className='text-teal-300 text-lg md:text-2xl tracking-tight font-semibold'>Live in production</span>
                                             </div>
-                                            <span className='text-teal-50 font-semibold text-2xl md:text-5xl tracking-tight'>rt-chatapp.vercel.app</span>
+                                            <span className='text-teal-50 font-semibold text-xl md:text-5xl tracking-tight'>rt-chatapp.vercel.app</span>
                                         </div>
                                         <span className='w-[42px] h-[42px] bg-sky-800/80 rounded-md flex items-center justify-center shadow-md'>
                                             <RxArrowTopRight size='28' className=' text-white' />
@@ -80,7 +80,7 @@ const Project3 = () => {
                     </div>
                     <div className='mt-12 pb-28'>
                         <h1 className='text-2xl sm:text-3xl font-medium md:font-semibold text-sky-950'>Tech stack used</h1>
-                        <div className='mt-6 sm:mt-8 flex flex-wrap items-center space-x-6 sm:space-y-0 space-y-2 sm:space-x-8'>
+                        <div className='mt-6 sm:mt-8 flex flex-wrap items-center space-x-5 sm:space-y-0 space-y-2 sm:space-x-8'>
                             <span className='sm:w-[66px] sm:h-[66px] w-[44px] h-[44px] sm flex items-center'>
                                 <Image src='/images/vueLogoStack.png' width={360} height={360} alt="Vue.js" className='w-full h-full' />
                             </span>

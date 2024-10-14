@@ -26,7 +26,7 @@ const Project5 = () => {
                         <div className='flex items-center justify-center w-[40px] h-[40px] sm:w-[46px] sm:h-[46px] bg-indigo-600 rounded-full mr-2'>
                             <span className='text-white text-2xl sm:text-3xl font-semibold'>M</span>
                         </div>
-                        <span className='text-3xl sm:text-4xl font-medium text-indigo-600 tracking-tight md:tracking-normal'>Mixue Inventory System</span>
+                        <span className='text-2xl sm:text-4xl font-medium text-indigo-600 tracking-tight md:tracking-normal'>Mixue Inventory System</span>
                     </div>
                     <div className='mt-10'>
                         <p className='text-lg sm:text-2xl'>

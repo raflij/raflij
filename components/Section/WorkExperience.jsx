@@ -3,7 +3,8 @@ import Image from 'next/image';
 
 const WorkExperience = () => {
     return (
-        <div className='flex items-center justify-center bg-[#100e20] py-24'>
+        <>
+        <div className='flex items-center justify-center bg-[#100e20] pt-24 pb-12'>
             <div className='flex flex-col items-start sm:items-center sm:px-0 px-6'>
                 <h2 className='text-4xl sm:text-5xl md:text-5xl lg:text-6xl font-bold tracking-tight text-cyan-50 md:flex items-start md:items-center'>
                     <span className='text-4xl sm:text-6xl md:text-6xl lg:text-7xl block sm:inline-block mb-2 md:mb-0'>💼 </span>
@@ -15,11 +16,15 @@ const WorkExperience = () => {
                 <p className='pt-12 text-indigo-200 font-normal sm:text-center text-xl sm:text-2xl max-w-[720px]'>
                     I have previously worked on freelance as a full stack web developer, and held a full-time job as a software engineer.
                 </p>
+            </div>
+        </div>
+        <div class="sm:hidden block relative top-0 h-[3px] bg-gradient-to-r from-[#878cf2] via-[#090811] to-[#090811]"></div>
+        <div className='flex items-center justify-center bg-[#100e20] pb-24'>
+            <div className='flex flex-col items-start sm:items-center sm:px-0 px-6'>
                 <div className='relative sm:pt-32 sm:pb-32 sm:px-9 xl:px-0'>
-                    <div className='relative sm:hidden h-[3px] bg-[#090811]'></div>
                     <div className='sm:rounded-2xl py-20 sm:shadow-md sm:border-[2px] bg-transparent sm:bg-[#090811] border-[#2d2a62] mx-auto max-w-[1240px] sm:min-w-[1240px] min-w-full'>
                         <div className='sm:px-24 px-18'>
-                            <div className='sm:flex-row flex-col sm:items-center items-start sm:justify-between justify-start'>
+                            <div className='sm:flex-row flex-col flex sm:items-center items-start sm:justify-between justify-start'>
                                 <div className="flex items-center">
                                     <div className='flex items-center justify-center w-[40px] h-[40px] sm:w-[46px] sm:h-[46px] rounded-lg mr-4 sm:mr-6'>
                                         <Image src='https://media.licdn.com/dms/image/v2/D560BAQEfJnWXLKeOvw/company-logo_100_100/company-logo_100_100/0/1707967991547/andalsoftwaresejahtera_logo?e=1736985600&v=beta&t=TWJCPcN9NqX0BmdYAJZGmByrqjn2egG6qDzPTFqeCw0' width={46} height={46} alt='Andal Software' className='w-full h-full rounded-lg' />
@@ -46,6 +51,7 @@ const WorkExperience = () => {
                 </div>
             </div>
         </div>
+        </>
     )
 }
 
