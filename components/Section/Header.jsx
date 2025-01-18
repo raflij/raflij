@@ -37,9 +37,7 @@ const Header = () => {
                         </p>
                         <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl leading-snug md:leading-relaxed text-[#7477bd]/90">
                             <span className=' md:max-w-auto max-w-[430px]'>
-                                <span className="font-semibold">I am a self-taught</span> <span>Software Engineer with a strong track record</span>
-                                <br className='hidden lg:block' />
-                                <span> of creating scalable, high-performance systems</span>
+                                <span className="font-semibold">I am a self-taught</span> <span>Software Engineer with a practical experience</span>
                             </span>
                         </p>
                     </div>

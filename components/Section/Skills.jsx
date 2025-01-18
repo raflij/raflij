@@ -34,12 +34,15 @@ const Skills = () => (
           <SkillItem src="/images/kafka.png" alt="Kafka" name="Kafka" />
           <SkillItem src="/images/redis.png" alt="Redis" name="Redis" />
           <SkillItem src="/images/debezium.png" alt="Debezium" name="Debezium" />
+          <SkillItem src="/images/kubernetes.png" alt="Kubernetes" name="Kubernetes" />
+          <SkillItem src="/images/file-type-terraform.svg" alt="Terraform" name="Terraform" />
+          <SkillItem src="/images/Ansible_logo.svg.png" alt="Ansible" name="Ansible" />
         </div>
 
-        <h2 className='sm:text-3xl text-2xl text-center text-gray-500/90 mt-8'>Currently studying</h2>
+        {/* <h2 className='sm:text-3xl text-2xl text-center text-gray-500/90 mt-8'>Currently studying</h2>
         <div className='flex flex-wrap justify-center items-center space-x-4 mt-6'>
           <SkillItem src="/images/kubernetes.png" alt="Kubernetes" name="Kubernetes" />
-        </div>
+        </div> */}
       </div>
     </div>
   </div>

@@ -38,12 +38,14 @@ const WorkExperience = () => {
                             <div className='mt-16'>
                                 <h4 className='font-semibold text-lg sm:text-xl text-violet-400'>November 2023 - Present</h4>
                                 <p className='mt-10 text-lg sm:text-xl text-violet-50 max-w-[570px]'>
-                                    Working on the backend team, building and scaling SaaS platforms, with a secondary focus on DevOps
+                                    Working on the backend team, and a secondary focus on DevOps
                                 </p>
                                 <ul className='mt-10 max-w-[774px] space-y-5 sm:text-base md:text-lg !leading-[180%] pl-4 text-violet-300 list-disc marker:text-violet-200'>
-                                    <li>Actively contributed to technical design and run scalable solutions for complex engineering challengs</li>
-                                    <li>Actively participated in code reviews, ensuring high quality code and adherence to coding standards</li>
-                                    <li>Collaborated in Agile Team with worked closely with cross-functional teams Dev Ops, QA, and PO</li>
+                                    <li>Developed features in attendance, hrms, payroll modules</li>
+                                    <li>Developed reactive programming system for mobile application</li>
+                                    <li>Maintained existing kubernetes cluster development</li>
+                                    <li>Set up and deployed production environment for Andal Kharisma v2</li>
+                                    <li>Managed 15+ bare metal server and Azure Cloud Infrastructure</li>
                                 </ul>
                             </div>
                         </div>
